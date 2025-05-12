@@ -59,7 +59,10 @@ cd dynamic-island-android
 
 Here's a demonstration of the Dynamic Island in action:
 
-![Dynamic Island Demo](screenrecording/demo.gif)
+<p align="center">
+  <img src="screenrecording/demo.gif" width="300" />
+</p>
+
 
 ## How It Works
 
